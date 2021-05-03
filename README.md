@@ -18,6 +18,10 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 ```
 ./GoKaronaGo_linux
 ```
+2.5 If there are permission issues executing the above command, try -
+```
+sudo ./GoKaronaGo_linux
+```
 3. A GUI window will pop up. Fill in your preferences and hit 'Next' when done.
 4. The app will provide you with a UniqueKey. Send this key, as a message, to the 'GoKaronaGo_bot' on telegram. On availability, you will be notified on the same phone number from which you sent the message.
 5. On authentication success, close the GUI window but do not close the terminal instance through which the script was executed. 
