@@ -8,10 +8,11 @@ Right now only linux executable is available. Will soon update with Windows exec
 
 <br>
 Before you start - You will be notified on Telegram, so make sure you have the Telegram app on atleast one - your mobile or desktop.
+<br><br>
 
-Steps - 
+## Steps
 
-1. Download the executable file 'GoKaronaGo_linux' from the repostiory and save it in a suitable directory on your computer.
+1. Download the executable file 'GoKaronaGo_linux' from the repository and save it in a suitable directory on your computer.
 2. cd to the directory and with it as the present working directory, execute - 
 
 ```
