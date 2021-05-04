@@ -24,4 +24,4 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 6. On authentication success, close the GUI window but do not close the terminal instance through which the script was executed. 
 
 ##### NOTE - 
-One caveat here is that you need to keep your computer on (prevent sleep too, yeah!) until you do not get the notification. Otherwise the program will get killed, in which case you will need to refollow from Step 2 to bring the service up again.
+A caveat here is that you need to keep your computer on (prevent sleep too, yeah!) until you do not get the notification. Otherwise the program will get killed, in which case you will need to refollow from Step 2 to bring the service up again.
