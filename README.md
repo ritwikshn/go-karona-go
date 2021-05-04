@@ -19,9 +19,9 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 ```
 ./GoKaronaGo_linux
 ```
-3. A GUI window will pop up. Fill in your preferences and hit 'Next' when done.
-4. The app will provide you with a UniqueKey. Send this key, as a message, to the 'GoKaronaGo_bot' on telegram. On availability, you will be notified on the same phone number from which you sent the message.
-5. On authentication success, close the GUI window but do not close the terminal instance through which the script was executed. 
+4. A GUI window will pop up. Fill in your preferences and hit 'Next' when done.
+5. The app will provide you with a UniqueKey. Send this key, as a message, to the 'GoKaronaGo_bot' on telegram. On availability, you will be notified on the same phone number from which you sent the message.
+6. On authentication success, close the GUI window but do not close the terminal instance through which the script was executed. 
 
 ##### NOTE - 
 One caveat here is that you need to keep your computer on (prevent sleep too, yeah!) until you do not get the notification. Otherwise the program will get killed, in which case you will need to refollow from Step 2 to bring the service up again.
