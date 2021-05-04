@@ -12,13 +12,14 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 
 ## Steps
 
-1. Download the executable file 'GoKaronaGo_linux' from the repository and save it in a suitable directory on your computer.
-2. cd to the directory and with it as the present working directory, execute - 
+1. Download the executable file 'GoKaronaGo_linux.tar.gz' from the repository and save it in a suitable directory on your computer.
+2. Extract the file. 
+3. cd to the directory and with it as the present working directory, execute - 
 
 ```
 ./GoKaronaGo_linux
 ```
-2.5 If there are permission issues executing the above command, try -
+3.5 If there are permission issues executing the above command, try -
 ```
 sudo ./GoKaronaGo_linux
 ```
