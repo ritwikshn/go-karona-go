@@ -13,8 +13,8 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 ## WINDOWS
 ### Steps - 
 1. Download/clone the  repository in a suitable directory on your computer.
-2. Go to the 'Windows' directory in this downloaded/cloned repository and extract the file. 
-3. Double-click the file to run it. 
+2. Go to the 'Windows' directory in this downloaded/cloned repository and extract 'GoKaronaGo_windows.zip' file. 
+3. Double-click the extracted file to run it. 
 4. A GUI window will pop up. Fill in your preferences and hit 'Next' when done.
 5. The app will provide you with a UniqueKey. Send this key, as a message, to the 'GoKaronaGo_bot' on telegram. On availability, you will be notified on the same phone number from which you sent the message.
 6. On authentication success, click on 'Finish' button, but do not close the commnd prompt instance that started when you double-clicked. 
@@ -23,8 +23,8 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 ## LINUX
 ### Steps
 1. Download/clone the  repository in a suitable directory on your computer.
-2. Go to the 'Linux' directory in this downloaded/cloned repository and extract the file using 
-3. Open terminal with this directory as present working directory, execute - 
+2. Go to the 'Linux' directory in this downloaded/cloned repository and extract the 'GoKaronaGo_linux.tar.gz' file.
+3. Open terminal and make the directory, where you extracted, as present working directory. Then execute - 
 
 ```
 ./GoKaronaGo_linux
