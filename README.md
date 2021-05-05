@@ -1,7 +1,7 @@
 # GoKaronaGo
 Desktop application to notify you personally when a vaccination session is available in your area.
 
-Since the government announced that it is mandatory to book an appointement for a covid vaccine dose in prior, one has to really be quite lucky to grab a slot before another day turns into a houseful show. Thus the motivation for this app - which notifies you personally, within a minute of opening of a vaccinnation slot, meeting your predefined preferences.
+Since the government announced that it is mandatory to book an appointment for a covid vaccine dose in prior, one has to really be quite lucky to grab a slot before another day turns into a houseful show. Thus the motivation for this app - which notifies you personally, within a minute of opening of a vaccinnation slot, meeting your predefined preferences.
 
 
 <br>
