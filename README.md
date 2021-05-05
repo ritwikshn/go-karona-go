@@ -36,5 +36,7 @@ A caveat here is that you need to keep your computer on until you get the notifi
 
 Post Script : 
 Telegram on Google playstore - https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_IN&gl=US
+<br>
 Telegram on Apple app store - https://apps.apple.com/in/app/telegram-messenger/id686449807
+<br>
 Telegram for Desktop - https://desktop.telegram.org/
