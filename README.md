@@ -21,7 +21,7 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 
 
 ## LINUX
-### Steps
+### Steps-
 1. Download/clone the  repository in a suitable directory on your computer.
 2. Go to the 'Linux' directory in this downloaded/cloned repository and extract the 'GoKaronaGo_linux.tar.gz' file.
 3. Open terminal and make the directory, where you extracted, as present working directory. Then execute - 
