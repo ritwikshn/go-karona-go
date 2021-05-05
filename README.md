@@ -5,7 +5,7 @@ Since the government announced that it is mandatory to book an appointment for a
 
 
 <br>
-Before you start - You will be notified on Telegram (a messaging app, available on all major platforms, find link in the post script section), so make sure you have the Telegram app on atleast one - your mobile or desktop.
+Before you start - You will be notified on Telegram (a messaging app, available on all major platforms, find link in the post script section), so make sure you have the Telegram app on atleast one - your mobile or desktop. Please also read the Note at the end.
 <br><br>
 
 ## WINDOWS
