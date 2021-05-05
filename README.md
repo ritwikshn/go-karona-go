@@ -4,10 +4,8 @@ Desktop application to notify you personally when a vaccination session is avail
 Since the government announced that it is mandatory to book an appointement for a covid vaccine dose in prior, one has to really be quite lucky to grab a slot before another day turns into a houseful show. Thus the motivation for this app - which notifies you personally, within a minute of opening of a vaccinnation slot, meeting your predefined preferences.
 
 
-Right now only linux executable is available. Will soon update with Windows executable.
-
 <br>
-Before you start - You will be notified on Telegram, so make sure you have the Telegram app on atleast one - your mobile or desktop.
+Before you start - You will be notified on Telegram (a messaging app, available on all major platforms, find link in the post script section), so make sure you have the Telegram app on atleast one - your mobile or desktop.
 <br><br>
 
 ## WINDOWS
@@ -35,3 +33,8 @@ Before you start - You will be notified on Telegram, so make sure you have the T
 
 ##### NOTE - 
 A caveat here is that you need to keep your computer on until you get the notification. Otherwise the program will get killed, in which case you will need to refollow from Step 3 to bring the service up again. If your computer goes to sleep, the service will autotomatically restart once you login again, though it will be inactive while the computer is on sleep.
+
+Post Script : 
+Telegram on Google playstore - https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_IN&gl=US
+Telegram on Apple app store - https://apps.apple.com/in/app/telegram-messenger/id686449807
+Telegram for Desktop - https://desktop.telegram.org/
