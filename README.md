@@ -34,7 +34,7 @@ Before you start - You will be notified on Telegram (a messaging app, available 
 ##### NOTE - 
 A caveat here is that you need to keep your computer on until you get the notification. Otherwise the program will get killed, in which case you will need to refollow from Step 3 to bring the service up again. If your computer goes to sleep, the service will autotomatically restart once you login again, though it will be inactive while the computer is on sleep.
 
-Post Script : 
+#### Post Script : 
 Telegram on Google playstore - https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_IN&gl=US
 <br>
 Telegram on Apple app store - https://apps.apple.com/in/app/telegram-messenger/id686449807
